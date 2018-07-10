@@ -41,10 +41,10 @@
         <h1>欢迎您，尊敬的用户<span style="color:#FF0000; font-size:16px"></span></h1>
         <div class="im_bottom">
         <form name="shareip" action="/cgi-bin/feedback" method="post">
-          <p id="search_show">您查询的IP为：<span class="red">101.88.12.55<input border="0" cellspacing="0" cellpadding="0"  name="ip_contend" id="ip_contend" value="101.88.12.55"  style="display:none"/></span></p>
+          <p id="search_show">您查询的IP为：<span class="red">58.35.101.88<input border="0" cellspacing="0" cellpadding="0"  name="ip_contend" id="ip_contend" value="58.35.101.88"  style="display:none"/></span></p>
     <input id="bkn" type="hidden" name="bkn"/>
           <!--首页未登陆（默认）-->
-          <p id="login_show" style="display:none">您当前的IP为：<span class="red">101.88.12.55</span></p>
+          <p id="login_show" style="display:none">您当前的IP为：<span class="red">58.35.101.88</span></p>
           <!--首页未登陆查询-->
           <p>该IP所在地为：<span>中国上海市&nbsp;电信</span></p>
           <!--<div id="change_hint" style="display:block">
